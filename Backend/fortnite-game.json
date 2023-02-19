@@ -57,13 +57,9 @@
             }]
         }
     },
-    "playlistinformation": {
-        "frontend_matchmaking_header_style": "None",
-        "_title": "playlistinformation",
-        "frontend_matchmaking_header_text": "",
-        "playlist_info": {
-            "_type": "Playlist Information",
-            "playlists": [{
+    "playlistimages": {
+        "playlistimages": {
+            "images": [{
                 "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlisttiles/BR_LobbyTileArt_Solo-512x512-24446ea2a54612c5604ecf0e30475b4dec81c3bc.png",
                 "_type": "PlaylistImageEntry",
                 "playlistname": "Playlist_DefaultSolo"
@@ -83,7 +79,12 @@
                 "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlistinformation/BR_LTM_Siphon-1024x512-66cb27084be50387682989b50a01dbc9e42f5a5d.jpg",
                 "playlist_name": "Playlist_Vamp_Squad",
                 "_type": "FortPlaylistInfo"
-            }]
-        }
+            }],
+            "_type": "PlaylistImageList"
+        },
+        "_title": "playlistimages",
+        "_activeDate": "2018-08-07T02:14:56.108Z",
+        "lastModified": "2018-08-28T15:50:37.174Z",
+        "_locale": "en-US"
     }
 }
