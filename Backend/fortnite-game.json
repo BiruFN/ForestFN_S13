@@ -17,7 +17,7 @@
                 "hidden": false,
                 "_type": "CommonUI Simple Message MOTD",
                 "title":"Chapter 2 - Season 4 Notice",
-                "body":"With the launch of Season 4, players on Google Play will be unable to play the current Season. On this platform, players can still play version v13.40.",
+                "body":"Apple has blocked your ability to update Fortnite on the App Store, and has said they will terminate our ability to develop Fortnite for Apple devices. As a result, Chapter 2 - Season 4 (v14.00) is unavailable on your device.",
                 "videoLoop": false,
                 "videoStreamingEnabled": false,
                 "sortingPriority":99,
@@ -46,7 +46,7 @@
                 "hidden": false,
                 "_type": "CommonUI Simple Message MOTD",
                 "title":"Chapter 2 - Season 4 Notice",
-                "body":"With the launch of Season 4, players on Google Play will be unable to play the current Season. On this platform, players can still play version v13.40.",
+                "body":"Apple has blocked your ability to update Fortnite on the App Store, and has said they will terminate our ability to develop Fortnite for Apple devices. As a result, Chapter 2 - Season 4 (v14.00) is unavailable on your device.",
                 "videoLoop": false,
                 "videoStreamingEnabled": false,
                 "sortingPriority":99,
@@ -54,6 +54,35 @@
                 "videoAutoplay": false,
                 "videoFullscreen": false,
                 "spotlight": false
+            }]
+        }
+    },
+    "playlistinformation": {
+        "frontend_matchmaking_header_style": "None",
+        "_title": "playlistinformation",
+        "frontend_matchmaking_header_text": "",
+        "playlist_info": {
+            "_type": "Playlist Information",
+            "playlists": [{
+                "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlisttiles/BR_LobbyTileArt_Solo-512x512-24446ea2a54612c5604ecf0e30475b4dec81c3bc.png",
+                "_type": "PlaylistImageEntry",
+                "playlistname": "Playlist_DefaultSolo"
+            },{
+                "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlisttiles/BR_LobbyTileArt_Duo-512x512-5dea8dfae97bddcd4e204dd47bfb245d3f68fc7b.png",
+                "_type": "PlaylistImageEntry",
+                "playlistname": "Playlist_DefaultDuo"
+            },{
+                "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlisttiles/BR_LobbyTileArt_Squad-512x512-5225ec6ca3265611957834c2c549754fe1778449.png",
+                "_type": "PlaylistImageEntry",
+                "playlistname": "Playlist_DefaultSquad"
+            }, {
+                "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlistinformation/CM_LobbyTileArt-1024x512-fbcd48db36552ccb1ab4021b722ea29d515377cc.jpg",
+                "playlist_name": "Playlist_PlaygroundV2",
+                "_type": "FortPlaylistInfo"
+            },{
+                "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/playlistinformation/BR_LTM_Siphon-1024x512-66cb27084be50387682989b50a01dbc9e42f5a5d.jpg",
+                "playlist_name": "Playlist_Vamp_Squad",
+                "_type": "FortPlaylistInfo"
             }]
         }
     }
