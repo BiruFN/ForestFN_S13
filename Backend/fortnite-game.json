@@ -63,9 +63,13 @@
             "backgrounds": [
                 {
                     "backgroundimage": "https://cdn.discordapp.com/attachments/1005824672069337118/1077160145865429012/Chapter_2_Season_5_-_Lobby_Background_-_Fortnite.png",
-                    "stage": "defaultnotris",
+                    "stage": "fortnitemares",
                     "_type": "DynamicBackground",
                     "key": "lobby"
+                },{
+                    "stage": "fortnitemares",
+                    "_type": "DynamicBackground",
+                    "key": "vault"
                 }
             ],
             "_type": "DynamicBackgroundList"
