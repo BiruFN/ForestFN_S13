@@ -4,21 +4,6 @@
   "lastModified": "2023-02-19T20:45:50.857Z",
   "_locale": "en-US",
   "_templateName": "blank",
-  "loginmessage": {
-    "_title": "LoginMessage",
-    "loginmessage": {
-      "_type": "CommonUI Simple Message",
-      "message": {
-        "_type": "CommonUI Simple Message Base",
-        "title": "Welcome to ForestFN!",
-        "body": "#FreeFortnite"
-      }
-    },
-    "_activeDate": "2017-07-19T13:14:04.490Z",
-    "lastModified": "2018-03-15T07:10:22.222Z",
-    "_locale": "en-US",
-    "_templateName": "FortniteGameMOTD"
-  },
   "dynamicbackgrounds": {
     "backgrounds": {
       "backgrounds": [
